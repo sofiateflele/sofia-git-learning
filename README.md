@@ -1,4 +1,4 @@
-# sofia-git-learning - FEATURE VERSION
+# sofia-git-learning - MERGED VERSION
 Learning Git and GitHub basics — practice repo with commits and branches
 - Note 1: learning commits
 - Note 2: learning commits
