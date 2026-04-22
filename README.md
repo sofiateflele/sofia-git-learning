@@ -8,3 +8,4 @@ Learning Git and GitHub basics — practice repo with commits and branches
 - Note 6: learning commits
 - Note 7: learning commits
 - Note 8: learning commits
+- Note 9: learning commits
