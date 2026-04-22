@@ -17,3 +17,4 @@ Learning Git and GitHub basics — practice repo with commits and branches
 - Feature note 4: working on feature branch
 - Feature note 5: working on feature branch
 - Feature note 6: working on feature branch
+- Feature note 7: working on feature branch
